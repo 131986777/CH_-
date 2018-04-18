@@ -7,10 +7,10 @@
 node + webpack4 + vue2
 
 ## 项目运行
-> （1）git clone [https://github.com/zhurr/node-webpack-vue.git](https://github.com/zhurr/node-webpack-vue.git)
-> （2）npm install
-> （3）npm start
-> （4）浏览器访问：localhost:8088 (ip及端口修改可自行在config/index.js里修改)
+> （1）git clone [https://github.com/zhurr/node-webpack-vue.git](https://github.com/zhurr/node-webpack-vue.git) <br />
+> （2）npm install <br />
+> （3）npm start <br />
+> （4）浏览器访问：localhost:8088 (ip及端口修改可自行在config/index.js里修改) <br />
 
 ## 目录结构及详解
 ![目录结构及详解](https://github.com/zhurr/node-webpack-vue/raw/master/Screenshots/files-description.jpg)
